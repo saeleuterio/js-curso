@@ -5,5 +5,5 @@ let paragrafo = document.querySelector('p');
 paragrafo.innerHTML = 'Escolha um número entre 1 e 10';
 
 function verificarChute() {
-    console.log('Botão')
+    console.log('O botão foi clicado!');
 }
